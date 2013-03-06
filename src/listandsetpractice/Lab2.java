@@ -10,8 +10,8 @@ import java.util.List;
 public class Lab2 {
     public static void main(String[] args) {
         Employee e1 = new Employee("B27","Steve Austin", 227);
-        Employee e2 = new Employee("A413","Oscar Goldman", 227);
-        Employee e3 = new Employee("Q1","Rudy Wells", 227);
+        Employee e2 = new Employee("A413","Oscar Goldman", 167);
+        Employee e3 = new Employee("Q1","Rudy Wells", 100);
         
         List<Employee> employees = new ArrayList<Employee>(); 
         employees.add(e1);
